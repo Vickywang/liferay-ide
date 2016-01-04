@@ -1,1 +1,5 @@
+/.settings/
+/.project
 /screenshots
+/.classpath
+/.gitignore
